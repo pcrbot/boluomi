@@ -7,7 +7,7 @@ from hoshino import aiorequests
 sv_help = '''
 [菠萝密 XX] 查看菠萝的秘密
 提取：2233
-解压：菠萝
+解压：菠萝/菠萝的合集
 '''.strip()
 
 sv = Service(
